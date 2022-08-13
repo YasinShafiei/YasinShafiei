@@ -10,7 +10,7 @@ I really love coding and creating new things that can help to make the world a b
 
 
 • 🔭 I’m currently working on Deep Learning with Python. <br />
-• 💻 I'm currently imporoving my skills in C++
+• 💻 I'm currently imporoving my skills in C++ <br />
 • ⚡ Fun fact: I'm a spacex lover <br />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasinShafiei&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
