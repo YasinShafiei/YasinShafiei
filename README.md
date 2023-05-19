@@ -1,35 +1,33 @@
-### Hi there 👋
-My name is Yasin.
-I'm a 15 years old Artificial Intelligence developer with Python!
-I have Hravrd CS50x AI certificate, Deep leatning specialization certificate by Andrew Ng, Tensorflow developer certificate and Advanced Tensorflow techniques certificates. I also have Deep learning certificate from Sharif University of Technology. 
-I really love coding and creating new things that can help to make the world a better place.
+<h1 align="center">Hi 👋, I'm Yasin Shafiei</h1>
+<h3 align="center">A passionate 15 year-old Artificial Intelligence Developer with Python!</h3>
+I love programming an I love AI. I pushed my age limitations and started learning programming and AI and now I'm a professional develpoer! <br>
+My goal is to make friendly and useful AI systems that can make people's lives easier. 
+In this field, I have CS50xAI certificate from harvard university. This was the first certificate that I got.
+I've also got the Deep Learaning Specialization, GAN Specialization, and TensorFlow advanced techniques and Tensorflow Develpoer cerificates from Coursera! 
+Recently I recieved the Self-Driving Cars certificate from University of Toronto! <br>
+i also write articles about all of my project! I would be so happy if you go and checkout my articles and follow me on medium. <br>
+I am rellay intersted in doing projects and if you want me for your projects, please contact me via my E-mail or Twitter. <br>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/yasin_shafiei)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:yasinshafiei1386@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/YasinShafiei)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinshafiei&label=Profile%20views&color=0e75b6&style=flat" alt="yasinshafiei" /> </p>
 
+<p align="left"> <a href="https://twitter.com/yasin_shafiei" target="blank"><img src="https://img.shields.io/twitter/follow/yasin_shafiei?logo=twitter&style=for-the-badge" alt="yasin_shafiei" /></a> </p>
 
-• 🔭 I’m currently working on Deep Learning with Python. <br />
-• 💻 I'm currently imporoving my skills in C++ <br />
-• ⚡ Fun fact: I'm a spacex lover <br />
+- 🔭 I’m currently working on **Useful AI service (will be released soon)**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasinShafiei&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+- 🌱 I’m currently improving my skills on **Deep Learning**
 
-- 🌱 Languages and Tools: 
+- 📝 I regularly write articles on [https://medium.com/@YasinShafiei](https://medium.com/@YasinShafiei)
 
+- 📫 How to reach me **yasinshafiei1386@gmail.com**
 
-    <div>
-        <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-        <code><img height="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-    </div>
+- ⚡ Fun fact **I love Space and Rocket Science!**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yasin_shafiei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasin_shafiei" height="30" width="40" /></a>
+<a href="https://instagram.com/yasinshafiei_2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasinshafiei_2007" height="30" width="40" /></a>
+<a href="https://medium.com/@yasinshafiei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yasinshafiei" height="30" width="40" /></a>
+</p>
 
-
-
-
-<!--
-**YasinShafiei/YasinShafiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
