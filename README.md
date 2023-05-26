@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasin Shafiei</h1>
 <h3 align="center">A passionate 15 year-old Artificial Intelligence Developer with Python!</h3>
-I love programming an I love AI. I pushed my age limitations and started learning programming and AI and now I'm a professional develpoer! <br>
+I love programming an I love AI. I pushed my age limitations and started learning programming and AI and now I'm a professional develpoer and Architect! <br>
 My goal is to make friendly and useful AI systems that can make people's lives easier. 
 In this field, I have CS50xAI certificate from harvard university. This was the first certificate that I got.
 I've also got the Deep Learaning Specialization, GAN Specialization, and TensorFlow advanced techniques and Tensorflow Develpoer cerificates from Coursera! 
