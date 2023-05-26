@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Shafiei</h1>
-<h3 align="center">A passionate 15 year-old Artificial Intelligence Developer with Python!</h3>
+<h3 align="center">A 15 year-old Artificial Intelligence Developer and Architect with Python!</h3>
 I love programming an I love AI. I pushed my age limitations and started learning programming and AI and now I'm a professional develpoer and Architect! <br>
 My main skill is Deep Learning & Neural Networks and most of my projects are based on them! <br>
 My goal is to make friendly and useful AI systems that can make people's lives easier. 
