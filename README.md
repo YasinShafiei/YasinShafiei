@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin Shafiei</h1>
 <h3 align="center">A passionate 15 year-old Artificial Intelligence Developer with Python!</h3>
 I love programming an I love AI. I pushed my age limitations and started learning programming and AI and now I'm a professional develpoer and Architect! <br>
+My main skill is Deep Learning & Neural Networks and most of my projects are based on them! <br>
 My goal is to make friendly and useful AI systems that can make people's lives easier. 
 In this field, I have CS50xAI certificate from harvard university. This was the first certificate that I got.
 I've also got the Deep Learaning Specialization, GAN Specialization, and TensorFlow advanced techniques and Tensorflow Develpoer cerificates from Coursera! 
@@ -18,7 +19,7 @@ I am rellay intersted in doing projects and if you want me for your projects, pl
 
 - 📝 I regularly write articles on [https://medium.com/@YasinShafiei](https://medium.com/@YasinShafiei)
 
-- 📫 How to reach me **yasinshafiei1386@gmail.com**
+- 📫 How to reach me **yasinshafiei2007@gmail.com**
 
 - ⚡ Fun fact **I love Space and Rocket Science!**
 
