@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasin Shafiei</h1>
-<h3 align="center">A 15 year-old Artificial Intelligence Developer and Architect with Python!</h3>
+<h3 align="center">A 16 year-old Artificial Intelligence Developer and Architect with Python!</h3>
 I love programming an I love AI. I pushed my age limitations and started learning programming and AI and now I'm a professional develpoer and Architect! <br>
 My main skill is Deep Learning & Neural Networks and most of my projects are based on them! <br>
-My goal is to make friendly and useful AI systems that can make people's lives easier. 
+The main goal is to make friendly and useful AI systems that can make people's lives easier. 
 In this field, I have CS50xAI certificate from harvard university. This was the first certificate that I got.
 I've also got the Deep Learaning Specialization, GAN Specialization, and TensorFlow advanced techniques and Tensorflow Develpoer cerificates from Coursera! 
 Recently I recieved the Self-Driving Cars certificate from University of Toronto! <br>
@@ -25,7 +25,7 @@ I am rellay intersted in doing projects and if you want me for your projects, pl
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yasin_shafiei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasin_shafiei" height="30" width="40" /></a>
+<a href="https://twitter.com/yasinshafiei07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasin_shafiei" height="30" width="40" /></a>
 <a href="https://instagram.com/yasinshafiei_2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasinshafiei_2007" height="30" width="40" /></a>
 <a href="https://medium.com/@yasinshafiei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yasinshafiei" height="30" width="40" /></a>
 </p>
