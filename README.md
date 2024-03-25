@@ -6,8 +6,7 @@ The main goal is to make friendly and useful AI systems that can make people's l
 In this field, I have CS50xAI certificate from harvard university. This was the first certificate that I got.
 I've also got the Deep Learaning Specialization, GAN Specialization, and TensorFlow advanced techniques and Tensorflow Develpoer cerificates from Coursera! 
 Recently I recieved the Self-Driving Cars certificate from University of Toronto! <br>
-i also write articles about all of my project! I would be so happy if you go and checkout my articles and follow me on medium. <br>
-I am rellay intersted in doing projects and if you want me for your projects, please contact me via my E-mail or Twitter. <br>
+I also write articles about all of my projects! I would be so happy if you go and checkout my articles and follow me on medium. <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinshafiei&label=Profile%20views&color=0e75b6&style=flat" alt="yasinshafiei" /> </p>
 
