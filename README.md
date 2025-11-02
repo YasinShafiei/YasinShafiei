@@ -14,7 +14,7 @@ I also write articles about all of my projects! I would be so happy if you go an
 
 - 🔭 I’m currently working on **Useful AI service (will be released soon)**
 
-- 🌱 I’m currently improving my skills on **Deep Learning**
+- 🌱 I’m currently working on **Apollo Lanauge Model**
 
 - 📝 I regularly write articles on [https://medium.com/@YasinShafiei](https://medium.com/@YasinShafiei)
 
